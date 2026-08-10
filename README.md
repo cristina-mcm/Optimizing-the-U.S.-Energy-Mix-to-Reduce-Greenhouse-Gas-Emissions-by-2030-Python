@@ -1,0 +1,2 @@
+# Optimizing-the-U.S.-Energy-Mix-to-Reduce-Greenhouse-Gas-Emissions-by-2030-Excel-Python-
+The research question for this project is: “What is the statistical relationship between energy source composition and greenhouse gas emission intensity in U.S., and what is the optimal energy mix that minimizes emissions by 2030 under projected demand trends?” I will be using two models: Ridge regression and Linear Programming.  
