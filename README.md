@@ -175,4 +175,4 @@ These results represent modeled scenarios rather than forecasts. They demonstrat
 
 ## Acknowledgement
 
-This project was originally completed as the final project for an Applied Mathematics classs and was later reviewed and revised for portfolio presentation.
+This project was originally completed as the final project for an Applied Mathematics class and was later reviewed and revised for portfolio presentation.
